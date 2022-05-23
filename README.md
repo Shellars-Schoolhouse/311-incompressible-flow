@@ -3,3 +3,8 @@
 
 All programs uploaded are purely for schoolwork purposes. All code was done in MATLAB. All the programs are live scripts so don't worry about running into licescing problems.  
 
+
+**Notes:**
+
+* The scripts starting with *AERE311* are for specific homework problems and probably aren't worth your time
+
